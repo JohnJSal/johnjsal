@@ -1,4 +1,4 @@
-# https://cses.fi/problemset/task/2207/
+# https://cses.fi/problemset/task/1629
 
 from operator import itemgetter
 
